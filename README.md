@@ -52,7 +52,7 @@ Experiment design, methodology structuring, visualization, academic writing for 
 
 ## Selected Projects
 ### Hue Match – Personal Colour Identity System  
-Published in Springer LNNS (Scopus indexed).  
+Accepted for publication in Springer LNNS (Scopus indexed).  
 Implements face detection, colour-space modelling, undertone classification, seasonal palette mapping, and real-time recommendation logic. Designed to support e-commerce and personalised beauty applications.
 
 ### Human Perception Simulator  
