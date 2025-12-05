@@ -48,8 +48,8 @@ Investigates graph-based learning for predicting interactions in multi-drug envi
 ## Contact
 If you are a researcher, mentor, or lab working in machine learning, perception, signal modelling, or computational science, I am always open to collaboration or discussion.
 
-Email: [your email]  
-GitHub: [your username]
+Email: shivaninikam925@gmail.com
+GitHub: Shivaninikam925
 
 ---
 
