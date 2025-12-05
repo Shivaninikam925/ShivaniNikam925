@@ -5,7 +5,7 @@ I am a Computer Science undergraduate interested in machine learning, computatio
 
 ## Publications
 *Hue Match: A Personal Colour Identity System*  
-Published in Springer LNNS (Scopus indexed) and presented as an oral talk at AMRIT 2025.  
+Accepted for publication in Springer LNNS (Scopus indexed) and selected as presenter for an oral talk at AMRIT 2025.  
 This work develops a complete computer-vision pipeline for personalised colour analysis, including facial region extraction, RGB-to-HSV transformation, undertone classification, seasonal palette assignment, and real-time recommendation design.
 
 ## Current Research Projects
