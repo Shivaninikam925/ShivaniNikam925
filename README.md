@@ -25,6 +25,31 @@ This work develops a complete computer-vision pipeline for personalised colour a
 - Machine learning for scientific and medical applications  
 - Data-driven modelling of human behaviour and responses  
 
+## Skills
+*Machine Learning & Data Modelling*  
+Supervised and unsupervised learning, feature engineering, model evaluation, cross-validation, interpretability.
+
+*Deep Learning*  
+PyTorch, PyTorch Geometric (basics), CNN foundations, feedforward networks, learning pipelines, training loops, loss optimization.
+
+*Computer Vision & Perception*  
+Colour science (RGB, HSV, LAB), perceptual modelling, ΔE2000 metrics, image preprocessing, histogram analysis, basic CNN workflows, face detection (face-api.js).
+
+*Graph Machine Learning*  
+Graph representation design, node/edge features, message-passing intuition, GNN fundamentals applied to interaction prediction.
+
+*Signal Processing & Time-Series Analysis*  
+Motion-signal extraction, filtering, anomaly detection, temporal feature construction.
+
+*Scientific Computing & Python Ecosystem*  
+NumPy, SciPy, scikit-learn, Matplotlib, imageio, pandas, Jupyter Notebooks.
+
+*Programming & Tools*  
+Python, PyTorch, Git/GitHub, VS Code, basic JavaScript (for face-api.js integration), Linux/CLI basics.
+
+*Research & Technical Writing*  
+Experiment design, methodology structuring, visualization, academic writing for peer-reviewed venues (Springer LNNS, Scopus indexed).
+
 ## Selected Projects
 ### Hue Match – Personal Colour Identity System  
 Published in Springer LNNS (Scopus indexed).  
