@@ -1,7 +1,7 @@
 # ShivaniNikam925
 
 # Hi, I'm Shivani Nikam
-I am a Computer Science undergraduate interested in machine learning, computational modelling, and human-centered AI. I enjoy building systems that interpret real-world signals—visual, behavioural, or structural—and applying ML methods to scientific and practical problems.
+I am a second-year Computer Science undergraduate interested in machine learning, computational modelling, and human-centered AI. I enjoy building systems that interpret real-world signals—visual, behavioural, or structural—and applying ML methods to scientific and practical problems.
 
 ## Publications
 *Hue Match: A Personal Colour Identity System*  
