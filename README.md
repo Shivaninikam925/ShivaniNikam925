@@ -1,81 +1,24 @@
-# ShivaniNikam925
+# 💫 About Me:
+👩‍💻 About Me<br>Hi, I’m Shivani Nikam, a second-year Computer Science undergraduate passionate about machine learning, computational modelling, and human-centered AI.<br>I enjoy building systems that interpret real-world signals—visual, behavioural, or structural—and applying ML methods to scientific and practical problems, especially where human perception and data intersect.<br><br>🔭 I’m currently working on<br>Human Perception Simulator<br>Modelling variations in human colour perception under changes in hue, brightness, and illumination using LAB colour space and ΔE2000 perceptual metrics, with visualization-driven analysis.<br>Motion Signal Modelling for Early Neurological Screening<br>Analysing human movement and micro-motion patterns using time-series ML to identify subtle anomalies that may support early disease detection.<br>Graph Neural Networks for Drug Interaction Prediction<br>Exploring graph-based representations and GNN architectures to model multi-drug interactions and identify potential risks.<br>Hue Match – Personal Colour Identity System (Accepted Publication)<br>A complete computer-vision pipeline for personalised colour analysis, accepted in Springer LNNS (Scopus indexed) and selected for oral presentation at AMRIT 2025.<br><br>⚡ I’m looking to collaborate on<br>Computational perception and colour science<br>Machine learning for healthcare and biomedical signals<br>Graph neural networks and interaction modelling<br>Human-centred AI and behavioural data analysis<br>Research-driven ML projects with real-world grounding<br><br>🤝 I’m looking for help with<br>Improving research methodology and experimental design<br>Guidance on advanced GNN architectures and embeddings<br>Feedback on research framing for top international summer programs and labs<br>Mentorship on transitioning from strong undergraduate research to MS/PhD-level work<br><br>🌱 I’m currently learning<br>Advanced machine learning methods<br>Graph learning and representation learning<br>Scientific Python workflows and reproducible research<br>Research communication and academic writing for peer-reviewed venues<br><br>💬 Ask me about<br>Colour science (RGB, HSV, LAB) and perceptual modelling<br>ΔE2000 metrics and human perception analysis<br>Building end-to-end ML research pipelines<br>Motion-signal analysis and time-series modelling<br>Getting started with GNNs for interaction prediction<br>Writing and structuring research for Springer/Scopus publications<br><br>⚡ Fun fact<br>I like building models that help machines interpret the world the way humans do—not just accurately, but perceptually.<br><br>📫 Contact<br>📧 Email: shivaninikam925@gmail.com<br>💻 GitHub: https://github.com/Shivaninikam925
 
-# Hi, I'm Shivani Nikam
-I am a second-year Computer Science undergraduate interested in machine learning, computational modelling, and human-centered AI. I enjoy building systems that interpret real-world signals—visual, behavioural, or structural—and applying ML methods to scientific and practical problems.
 
-## Publications
-*Hue Match: A Personal Colour Identity System*  
-Accepted for publication in Springer LNNS (Scopus indexed) and selected as presenter for an oral talk at AMRIT 2025.  
-This work develops a complete computer-vision pipeline for personalised colour analysis, including facial region extraction, RGB-to-HSV transformation, undertone classification, seasonal palette assignment, and real-time recommendation design.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-nikam-74196721a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivaninikam925@gmail.com) 
 
-## Current Research Projects
-- *Human Perception Simulator*  
-  A research-oriented model simulating variations in human colour perception through hue, brightness, and illumination changes, with LAB-space ΔE2000 perceptual analysis and visualisation.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShivaniNikam925&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShivaniNikam925&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniNikam925&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- *Motion Signal Modelling for Early Neurological Screening*  
-  Analysing human movement patterns to identify subtle anomalies that may support early disease detection.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShivaniNikam925&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- *Graph Neural Networks for Drug Interaction Prediction*  
-  Exploring graph-based representations and GNN architectures to model multi-drug interactions and identify potential risks.
-
-## Research Interests
-- Computational perception and colour science  
-- Computer vision and signal analysis  
-- Graph neural networks  
-- Machine learning for scientific and medical applications  
-- Data-driven modelling of human behaviour and responses  
-
-## Skills
-*Machine Learning & Data Modelling*  
-Supervised and unsupervised learning, feature engineering, model evaluation, cross-validation, interpretability.
-
-*Deep Learning*  
-PyTorch, PyTorch Geometric (basics), CNN foundations, feedforward networks, learning pipelines, training loops, loss optimization.
-
-*Computer Vision & Perception*  
-Colour science (RGB, HSV, LAB), perceptual modelling, ΔE2000 metrics, image preprocessing, histogram analysis, basic CNN workflows, face detection (face-api.js).
-
-*Graph Machine Learning*  
-Graph representation design, node/edge features, message-passing intuition, GNN fundamentals applied to interaction prediction.
-
-*Signal Processing & Time-Series Analysis*  
-Motion-signal extraction, filtering, anomaly detection, temporal feature construction.
-
-*Scientific Computing & Python Ecosystem*  
-NumPy, SciPy, scikit-learn, Matplotlib, imageio, pandas, Jupyter Notebooks.
-
-*Programming & Tools*  
-Python, PyTorch, Git/GitHub, VS Code, basic JavaScript (for face-api.js integration), Linux/CLI basics.
-
-*Research & Technical Writing*  
-Experiment design, methodology structuring, visualization, academic writing for peer-reviewed venues (Springer LNNS, Scopus indexed).
-
-## Selected Projects
-### Hue Match – Personal Colour Identity System  
-Accepted for publication in Springer LNNS (Scopus indexed).  
-Implements face detection, colour-space modelling, undertone classification, seasonal palette mapping, and real-time recommendation logic. Designed to support e-commerce and personalised beauty applications.
-
-### Human Perception Simulator  
-Models perceptual variations using colour transformations and LAB ΔE metrics. Includes a complete analysis notebook and saved output examples.
-
-### Motion Signal Modelling  
-Applies ML techniques to analyse micro-movements for potential neurological anomaly detection.
-
-### Drug Interaction Prediction with GNNs  
-Investigates graph-based learning for predicting interactions in multi-drug environments.
-
-## Currently Learning
-- Advanced machine learning methods  
-- Graph learning and embeddings  
-- Scientific Python workflows  
-- Experimental design and research writing  
-
-## Contact
-If you are a researcher, mentor, or lab working in machine learning, perception, signal modelling, or computational science, I am always open to collaboration or discussion.
-
-Email: shivaninikam925@gmail.com
-GitHub: Shivaninikam925
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShivaniNikam925&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ShivaniNikam925&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*"I like building models that help machines interpret the world the way humans do."*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
